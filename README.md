@@ -1,4 +1,6 @@
 # AlphaObeisance Repository
+# AlphaObeisance Repository
+# AlphaObeisance Repository
 
 Welcome to the **AlphaObeisance** repository!
 
