@@ -2,7 +2,7 @@
 
 Welcome to the **AlphaObeisance** repository!
 
-## Repository Purpose
+##### Repository Purpose
 
 The **AlphaObeisance** repository is designed for:
 - Centralizing and managing **dotfiles** and system configuration files.
