@@ -1,0 +1,550 @@
+{
+	"file_history":
+	[
+		"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/monitors.conf",
+		"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/aesthetics.conf",
+		"/home/milesj/AlphaObeisance/dotfiles/hypr/waybar/config.jsonc",
+		"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/environment.conf",
+		"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/variables.conf",
+		"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/autostart.conf",
+		"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/keybindings.conf"
+	],
+	"folder_history":
+	[
+		"/home/milesj/Downloads",
+		"/home/milesj/AlphaObeisance/dotfiles"
+	],
+	"last_version": 4189,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"next_update_check": 1736674673,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 672.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			27.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/autostart.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/monitors.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/aesthetics.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/waybar/config.jsonc",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/environment.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/variables.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/keybindings.conf"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gap"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 924.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/milesj/AlphaObeisance/dotfiles/hypr/configs/autostart.conf",
+					"settings":
+					{
+						"buffer_size": 3248,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							5,
+							"left_delete",
+							null,
+							"BQAAAMcJAAAAAAAAxwkAAAAAAAABAAAAY8YJAAAAAAAAxgkAAAAAAAABAAAAbsUJAAAAAAAAxQkAAAAAAAABAAAAb8QJAAAAAAAAxAkAAAAAAAABAAAAc8MJAAAAAAAAwwkAAAAAAAABAAAAag",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADICQAAAAAAAMgJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "ini"
+							},
+							"AwAAAMMJAAAAAAAAxAkAAAAAAAAAAAAAxAkAAAAAAADFCQAAAAAAAAAAAADFCQAAAAAAAMYJAAAAAAAAAAAAAA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADDCQAAAAAAAMMJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAAI8JAAAAAAAAkAkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACPCQAAAAAAAI8JAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAJAJAAAAAAAAkQkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQCQAAAAAAAJAJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "exec-o"
+							},
+							"BgAAAM0JAAAAAAAAzgkAAAAAAAAAAAAAzgkAAAAAAADPCQAAAAAAAAAAAADPCQAAAAAAANAJAAAAAAAAAAAAANAJAAAAAAAA0QkAAAAAAAAAAAAA0QkAAAAAAADSCQAAAAAAAAAAAADSCQAAAAAAANMJAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADNCQAAAAAAAM0JAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "nce"
+							},
+							"AwAAANMJAAAAAAAA1AkAAAAAAAAAAAAA1AkAAAAAAADVCQAAAAAAAAAAAADVCQAAAAAAANYJAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADTCQAAAAAAANMJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": " ="
+							},
+							"AgAAANYJAAAAAAAA1wkAAAAAAAAAAAAA1wkAAAAAAADYCQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADWCQAAAAAAANYJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAANgJAAAAAAAA2QkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADYCQAAAAAAANgJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "nwg-"
+							},
+							"BAAAANkJAAAAAAAA2gkAAAAAAAAAAAAA2gkAAAAAAADbCQAAAAAAAAAAAADbCQAAAAAAANwJAAAAAAAAAAAAANwJAAAAAAAA3QkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADZCQAAAAAAANkJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "dock"
+							},
+							"BAAAAN0JAAAAAAAA3gkAAAAAAAAAAAAA3gkAAAAAAADfCQAAAAAAAAAAAADfCQAAAAAAAOAJAAAAAAAAAAAAAOAJAAAAAAAA4QkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdCQAAAAAAAN0JAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "-hyp"
+							},
+							"BAAAAOEJAAAAAAAA4gkAAAAAAAAAAAAA4gkAAAAAAADjCQAAAAAAAAAAAADjCQAAAAAAAOQJAAAAAAAAAAAAAOQJAAAAAAAA5QkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhCQAAAAAAAOEJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "rland"
+							},
+							"BQAAAOUJAAAAAAAA5gkAAAAAAAAAAAAA5gkAAAAAAADnCQAAAAAAAAAAAADnCQAAAAAAAOgJAAAAAAAAAAAAAOgJAAAAAAAA6QkAAAAAAAAAAAAA6QkAAAAAAADqCQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADlCQAAAAAAAOUJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAOoJAAAAAAAA6wkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqCQAAAAAAAOoJAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "&"
+							},
+							"AQAAAOsJAAAAAAAA7AkAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADrCQAAAAAAAOsJAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/milesj/AlphaObeisance/dotfiles",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/waybar"
+			],
+			"file_history":
+			[
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/monitors.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/aesthetics.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/waybar/config.jsonc",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/environment.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/variables.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/autostart.conf",
+				"/home/milesj/AlphaObeisance/dotfiles/hypr/configs/keybindings.conf"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gap"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/milesj/AlphaObeisance/dotfiles"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/milesj/AlphaObeisance/dotfiles/hypr/configs/autostart.conf",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3248,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2540,
+										2540
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 731.5,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,752,698,1720,720,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
